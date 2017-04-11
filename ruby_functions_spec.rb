@@ -87,9 +87,3 @@ class Functions_Practice < MiniTest::Test
   end
 
 end
-
-
-
-
-
-
